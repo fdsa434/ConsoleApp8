@@ -62,7 +62,7 @@ namespace ConsoleApp8
 
             #endregion
 
-            //part 2
+            
 
 
             #region question_1
@@ -76,12 +76,12 @@ namespace ConsoleApp8
 
 
             #region Question_02
-            //Authentication_Service s = new Authentication_Service();
-            //s.Username = "mohamed";
-            //s.Password = "password";
-            //s.Role = "user";
-            //Console.WriteLine(s.AuthenticateUser(s.Username, s.Password));
-            //Console.WriteLine(s.Authorize(s.Username,s.Role));
+           //IauthenticationService s = new Authentication_Service();
+           // s.Username = "mohamed";
+           // s.Password = "password";
+           // s.Role = "user";
+           // Console.WriteLine(s.AuthenticateUser(s.Username, s.Password));
+           // Console.WriteLine(s.Authorize(s.Username, s.Role));
             #endregion
 
 
